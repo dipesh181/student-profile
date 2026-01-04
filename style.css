@@ -1,0 +1,31 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.profile {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+.course {
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+ul {
+    list-style-type: square;
+}
