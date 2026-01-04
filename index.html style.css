@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="profile">
+    <h1>Dipesh Prajapati</h1>
+    <p class="course">Computer Science Student</p>
+
+    <h2>About Me</h2>
+    <p>
+        I am a beginner learning HTML, CSS and C programming.
+        I like building simple projects.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>C Programming</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: dipesh@example.com</p>
+</div>
+
+</body>
+</html>
